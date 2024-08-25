@@ -1,7 +1,7 @@
 # Minimum
 ## Art
 player
-villagers
+villagers (different colors)
     normal
     hunter
     priest
@@ -44,3 +44,50 @@ Night
     player attacks villagers
     player gains blood on villager kill
     death of all villagers ends the night
+
+# More
+## Art
+cover art
+floor blood
+villagers
+    normal
+    hunter (crossbows/garlic)
+    priest (holy water/crosses)
+    angery (torches/pitchforks)
+character portraits
+day/night rooms
+ransacked rooms
+upgraded rooms
+head pike animation
+
+## Sound
+menu theme
+game over theme
+separate day/night theme
+different rooms' fix/upgrade sounds
+stat upgrade sound
+villager noises
+vampire noises
+background noise (wind, trees, howling)
+weapon noises
+
+## Coding
+end game
+    boss fight
+player
+    perception radius
+    stamina
+    dash
+    fog form
+    bat form
+    wolf form
+    thralls
+    traps
+villagers
+    pitchforks cause bleed
+    torches burn rooms
+    holy water leaves puddles
+    crosses lower fear
+    crossbows ranged attacks
+    garlic lowers perception and speed
+
