@@ -17,7 +17,7 @@ Kitchen: HP
 Bedroom: Speed
 Library: Fear (weaken villagers)
 Bath: Seduction (turn villagers)
-Dining Room: Stamina
+Dining Room: Damage
 Treasure Room: HP, Treasure (more villagers, treasure hunters)
 Head Pikes: Fear, Fury (more villagers, angry villagers)
 Profane Room: Speed, Blasphemy (more villagers, priests)
